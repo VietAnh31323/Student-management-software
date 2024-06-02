@@ -1,0 +1,4 @@
+HocVien [maKhoaHoc=12, maHocVien=123, tenHocVien=sdfsd, trinhDo=HocVan [maHocVan=2, tenHocVan=A3], diaChi=23123, ngaySinh=2024-01-09, gioiTinh=true, email=csvsd, lop=A, phone=svd, diemKT1=1.0]
+HocVien [maKhoaHoc=CNTT, maHocVien=2155501, tenHocVien=Nguyễn Việt Anh, trinhDo=HocVan [maHocVan=2, tenHocVan=A3], diaChi=Tuyên Quang, ngaySinh=2024-01-24, gioiTinh=true, email=nvietanh170@gmail, lop=A, phone=0982848203, diemKT1=5.0]
+HocVien [maKhoaHoc=CNTT, maHocVien=2155502, tenHocVien=Nguyễn Chu Kiều Trang, trinhDo=HocVan [maHocVan=1, tenHocVan=A2], diaChi=Hà Nội, ngaySinh=2024-01-24, gioiTinh=false, email=ntkt3012@gmail, lop=B, phone=0982848203, diemKT1=4.0]
+HocVien [maKhoaHoc=CNTT, maHocVien=2155503, tenHocVien=Nguyễn Thị Tâm Nhi, trinhDo=HocVan [maHocVan=1, tenHocVan=A2], diaChi=Hà Nội, ngaySinh=2024-01-08, gioiTinh=false, email=nttnhi00245@gmail, lop=C, phone=0965214982, diemKT1=10.0]
